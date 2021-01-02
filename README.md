@@ -2,7 +2,8 @@
 
 Drone + Raspberry Pi + Camera + Ardupilot + OpenCV + Python are used for the project. Aim is to find a suitable place for landing autonomously which is specified with algorithm. 
 
-Created by
+Also created by
+
 https://www.linkedin.com/in/ibrahim-cicek-85789191/
 
 https://www.linkedin.com/in/akan-g%C3%BCven-0a3274105/
