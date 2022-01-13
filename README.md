@@ -6,7 +6,7 @@ Also created by
 
 https://www.linkedin.com/in/ibrahim-cicek-85789191/
 
-https://www.linkedin.com/in/akan-g%C3%BCven-0a3274105/
+https://www.linkedin.com/in/akan-g-0a3274105
 
 https://www.linkedin.com/in/dominik-balas-b76657184/
 
